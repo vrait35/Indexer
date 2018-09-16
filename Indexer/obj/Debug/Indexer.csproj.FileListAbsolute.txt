@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\anuar\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\anuar\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\anuar\source\repos\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\anuar\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb
